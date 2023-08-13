@@ -95,6 +95,7 @@ In May 2022, [Instagram announced support for NFTs](https://about.instagram.com/
 - **[Mirror.xyz](https://mirror.xyz/)** - _Mirror is a decentralized, user-owned publishing platform built on Ethereum for users to crowdfund ideas, monetize content, and build high-value communities._
 - **[Lens Protocol](https://lens.xyz/)** - _Lens Protocol is a composable and decentralized social graph helping creators take ownership of their content wherever they go in the digital garden of the decentralized internet._
 - **[Farcaster](https://farcaster.xyz/)** - _Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email._
+- **[CyberConnect](https://cyberconnect.me/)** - _CyberConnect is a Web3 social network that enables developers to create social applications with ERC-4337-powered smart accounts. It is a decentralized protocol that empowers users to own their digital identity, content, connections, and monetization._
 
 ## Further reading {#further-reading}
 
